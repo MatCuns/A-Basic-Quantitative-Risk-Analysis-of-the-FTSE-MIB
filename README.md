@@ -1,0 +1,2 @@
+# A-Basic-Quantitative-Risk-Analysis-of-the-FTSE-MIB-index
+This repository contains a financial analysis in python of the FTSE MIB. From raw data I conduct a historical risk analysis, calculate key financial metrics (Annualized Returns/Volatility, Sharpe/Sortino Ratios), non-normality metrics (skewness/kurtosis), and compare three VaR models: Historic, Gaussian, and the advanced Cornish-Fisher method.
